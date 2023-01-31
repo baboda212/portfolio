@@ -36,6 +36,7 @@ export default function Projects() {
                 link = {itemInfo[0].link}
                 img = {itemInfo[0].img}
             />
+            
             <Item 
                 title ={itemInfo[1].title}
                 desc = {itemInfo[1].desc}

@@ -6,7 +6,9 @@ export default function About() {
   return (
     <div>
         <Nav/>
-        <div>About</div>
+        <h1>About</h1>
+        <img src='https://skillicons.dev/icons?i=js,html,css,vscode,nodejs,git,'/><hr/>
+        <img src='https://skillicons.dev/icons?i=figma,photoshop'/>
     </div>
   )
 }
