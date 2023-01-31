@@ -7,7 +7,7 @@ export default function About() {
     <div>
         <Nav/>
         <h1>About</h1>
-        <img src='https://skillicons.dev/icons?i=js,html,css,vscode,nodejs,git,&perline=3'/><hr/>
+        <img src='https://skillicons.dev/icons?i=js,html,css,vscode,nodejs,git,jquery,github,sqlite,bootstrap&perline=3&theme=light'/><hr/>
         <img src='https://skillicons.dev/icons?i=figma,photoshop'/>
     </div>
   )
